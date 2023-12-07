@@ -8,7 +8,6 @@ public class Exercicio5 {
         Scanner input = new Scanner(System.in);
 
         int codigoProduto, qtd;
-        //double valorTotal;
 
         System.out.println("Código do produto");
         codigoProduto = input.nextInt();
